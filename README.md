@@ -23,13 +23,13 @@ As instruções são:
 
 Utiliza o env com os dados:
 
-HOST=<seu HOST>
+HOST= seu HOST
 
-USER=<seu USER>
+USER= seu USER
 
-PASSWORD=<sua SENHA>
+PASSWORD= sua SENHA
 
-DATABASE=<seu DATABASE>
+DATABASE= seu DATABASE
 
 ## Contato
 
