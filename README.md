@@ -20,10 +20,15 @@ As instruções são:
 1. `npm install` para instalar todas as dependências;
 1. `npm run start` para rodar localmente o projeto
 1. `npm run build` para gerar uma versão possível de ser deployada com os arquivos transpilados para Javascript
+
 Utiliza o env com os dados:
+
 HOST=<seu HOST>
+
 USER=<seu USER>
+
 PASSWORD=<sua SENHA>
+
 DATABASE=<seu DATABASE>
 
 ## Contato
