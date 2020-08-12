@@ -10,7 +10,7 @@ Segue uma arquitetura em camadas:
 
 ## Sobre
 
-Esse foi um projeto de Beckend que criei para treinar cacos básicos de banco relacional.
+Esse foi um projeto de Beckend que criei para treinar casos básicos de banco relacional.
 Cadastra uma banda; Podemos buscar essa banda por id ou nome.
 Cadastra um show, em um dia da semana e horarios especificos; Esse show recebe uma banda. Podemos buscar os shows por dia da semana.
 
